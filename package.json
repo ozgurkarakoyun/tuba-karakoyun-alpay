@@ -1,0 +1,1 @@
+{"name":"tuba-karakoyun-alpay-website","version":"1.0.0","private":true,"description":"Uzm. Dr. Tuba Karakoyun Alpay Türkçe kişisel web sitesi","scripts":{"start":"node server.js","check":"node --check server.js && node --check public/app.js"},"engines":{"node":">=22"}}
